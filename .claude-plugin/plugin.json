@@ -1,0 +1,21 @@
+{
+  "name": "uk-electrical-qualifications",
+  "version": "1.0.0",
+  "description": "Explains UK electrician qualification routes, City & Guilds course codes, and common next steps for adult career changers and electrical trainees.",
+  "author": {
+    "name": "Elec Training",
+    "url": "https://elec.training"
+  },
+  "homepage": "https://elec.training/news/how-to-become-an-electrician/",
+  "license": "MIT",
+  "keywords": [
+    "electrician",
+    "electrical-training",
+    "city-and-guilds",
+    "nvq",
+    "18th-edition",
+    "am2",
+    "ecs",
+    "uk"
+  ]
+}
